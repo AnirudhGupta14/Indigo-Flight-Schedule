@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66a3274057cc05cc81e3a433"
+  },
+  "flight_num": "1000",
+  "name": "Anirudh Gupta",
+  "mobile": "+918882838100",
+  "email": "anirudhgupta1441@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66a3280657cc05cc81e3a437"
+  },
+  "flight_num": "2000",
+  "name": "Aman Gupta",
+  "mobile": "+918882838100",
+  "email": "anirudhgupta1441@gmail.com"
+}]

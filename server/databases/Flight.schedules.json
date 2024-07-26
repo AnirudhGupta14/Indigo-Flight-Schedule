@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "66a3087757cc05cc81e3a42a"
+  },
+  "flight_num": "1000",
+  "departure": "India",
+  "destination": "USA",
+  "flight_time": "03:40",
+  "prev_status": "On-Time",
+  "status": "Delayed",
+  "gate": "1",
+  "prev_gate": "1"
+},
+{
+  "_id": {
+    "$oid": "66a308ae57cc05cc81e3a42b"
+  },
+  "flight_num": "2000",
+  "departure": "India",
+  "destination": "UK",
+  "flight_time": "13:40",
+  "prev_status": "Delayed",
+  "status": "Delayed",
+  "gate": "5",
+  "prev_gate": "5"
+},
+{
+  "_id": {
+    "$oid": "66a3192c57cc05cc81e3a42c"
+  },
+  "flight_num": "3000",
+  "departure": "Saudi Arabia",
+  "destination": "China",
+  "flight_time": "02:40",
+  "prev_status": "Delayed",
+  "status": "On-Time",
+  "gate": "3",
+  "prev_gate": "3"
+},
+{
+  "_id": {
+    "$oid": "66a3197957cc05cc81e3a42e"
+  },
+  "flight_num": "4000",
+  "departure": "Mexico",
+  "destination": "China",
+  "flight_time": "10:40",
+  "prev_status": "On-Time",
+  "status": "Cancelled",
+  "gate": "2",
+  "prev_gate": "1"
+},
+{
+  "_id": {
+    "$oid": "66a319e357cc05cc81e3a42f"
+  },
+  "flight_num": "5000",
+  "departure": "UAE",
+  "destination": "Canada",
+  "flight_time": "18:40",
+  "prev_status": "On-Time",
+  "status": "Delayed",
+  "gate": "6",
+  "prev_gate": "5"
+},
+{
+  "_id": {
+    "$oid": "66a3279f57cc05cc81e3a435"
+  },
+  "flight_num": "6000",
+  "departure": "Canada",
+  "destination": "Germany",
+  "flight_time": "07:20",
+  "prev_status": "On-Time",
+  "status": "Cancelled",
+  "gate": "5",
+  "prev_gate": "3"
+},
+{
+  "_id": {
+    "$oid": "66a3291b57cc05cc81e3a439"
+  },
+  "flight_num": "7000",
+  "departure": "France",
+  "destination": "UK",
+  "flight_time": "21:40",
+  "prev_status": "Delayed",
+  "status": "On-Time",
+  "gate": "6",
+  "prev_gate": "7"
+}]
