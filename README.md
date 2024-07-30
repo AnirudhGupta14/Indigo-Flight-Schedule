@@ -1,5 +1,5 @@
 ## Technology Used :
-1.Frontend - Reactjs, HTML, CSS, 
+1. Frontend - Reactjs, HTML, CSS
 2. Backend - JavaScript, Nodejs
 3. Database - MongoDB Atlas
 4. SMS Sender - Twilio
