@@ -8,7 +8,21 @@ const UserModel = require('../models/user');
 
 const dotenv = require('dotenv').config();
 
-mongoose.connect("mongodb://127.0.0.1:27017/Flight")
+//mongoose.connect("mongodb://127.0.0.1:27017/Flight")
+const connectDB = async() => {
+    try
+    {
+        await mongoose.connect(`mongodb+srv://anirudhgupta1441:RO3CenEVzGvI8eFJ@flight.waldype.mongodb.net/Flight`);
+    console.log(`Mongoose is connect ${mongoose.connection.host}`)
+    }
+    catch(err)
+    {
+        console.log(err);
+    }
+    
+}
+
+connectDB();
 
 async function UpdateDatabase(flight)
 {
